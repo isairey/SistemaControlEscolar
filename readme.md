@@ -62,7 +62,7 @@ Su enfoque está orientado a mejorar la productividad del desarrollador mediante
 
 Puedes consultar la documentación completa del desarrollo en:
 
-🔗 https://github.com/Intelguasoft/sistema-escolar/wiki
+🔗 https://github.com/isairey/SistemaControlEscolar/wiki
 
 ---
 
@@ -70,10 +70,10 @@ Puedes consultar la documentación completa del desarrollo en:
 
 ```bash id="inst123"
 # Clonar repositorio
-git clone https://github.com/tu-usuario/sistema-escolar.git
+git clone https://github.com/isairey/SistemaControlEscolar.git
 
 # Entrar al proyecto
-cd sistema-escolar
+cd SistemaControlEscolar
 
 # Instalar dependencias
 composer install
